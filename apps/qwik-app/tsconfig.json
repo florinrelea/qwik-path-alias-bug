@@ -1,0 +1,4 @@
+{
+  "extends": "../../qwik-tsconfig.json",
+  "include": ["src"]
+}
